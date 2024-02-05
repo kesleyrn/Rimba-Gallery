@@ -13,9 +13,9 @@ function Navbar() {
             </div>
             <div className="header-cols">
                 <ul className="header-ul">
-                    <li className="header-list"><Link to="/"  >Home</Link></li>
-                    <li className="header-list"><Link to="/Products"  >Products</Link></li>
-                    <li className="header-list"><Link to="/Services"  >Our-Services</Link></li>
+                    <li><Link to="/"  >Home</Link></li>
+                    <li><Link to="/Products"  >Products</Link></li>
+                    <li><Link to="/Services"  >Our-Services</Link></li>
                 </ul>
              </div>
 
